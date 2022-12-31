@@ -47,7 +47,7 @@ st.set_page_config(
     page_icon=":robot:"
 )
 
-st.header("ChatGPT Bot with Streamlit")
+st.header("Chat Bot with Streamlit")
 
 history_input = []
 
